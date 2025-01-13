@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMCeron&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMCeron&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMCeron&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMCeron&layout=compact&theme=blue_navy&hide_border=true" />
 </a>
 <!--
 **CMCeron/CMCeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
