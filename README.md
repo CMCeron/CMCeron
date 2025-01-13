@@ -1,11 +1,8 @@
 # This is Clementina's Repo!! Welcome!!
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMCeron&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" aling="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMCeron&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMCeron&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMCeron&layout=compact&theme=tokyonight&hide_border=true" />
 <!--
 **CMCeron/CMCeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
