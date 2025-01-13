@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" aling="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMCeron&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
 </a>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" aling="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMCeron&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 <!--
