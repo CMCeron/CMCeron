@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/CMCeron/CMCeron-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMCeron&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/CMCeron/CMCeron.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMCeron&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 <!--
