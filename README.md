@@ -25,15 +25,11 @@
  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###
+
 <br clear="both">
-###
 
-<img src="CMCeron/CMCeron/blob/main/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=CMCeron&theme=dark" alt="Layout with last medium posts"  />
-</div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
